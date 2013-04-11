@@ -3,7 +3,6 @@ layout: home
 avatar: yes
 ---
 
-This is a test for pages,and the templates of this site is from [www.yihui.name](http://yihui.name).
+我是本科在2010年毕业于[西南交通大学](http://www.swjtu.edu.cn)的一个80后，然后在深圳金蝶工作了将近两年时间，主要从事Java中间件的开发工作。现在遵循着一个很久远的理想又回到了学校继续学习，将要就读于西南交通大学经济管理学院的管理科学工程系。我有着每天长时间对着电脑的不良习惯，但也热爱运动，喜欢旅游。并希望借这些活动可以短暂的逃离电脑屏幕。现在在学习数据挖掘及一些工具，如R。
 
-这是暂时是个测试页面，页面模板来自[谢益辉](http://yihui.name)的博客。
 
