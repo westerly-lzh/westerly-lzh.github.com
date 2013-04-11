@@ -1,6 +1,0 @@
-markdown: rdiscount
-permalink: /:year/:month/:title/
-url: http://jeff.lee/en
-author: Jeff Lee
-pygments: true
-
