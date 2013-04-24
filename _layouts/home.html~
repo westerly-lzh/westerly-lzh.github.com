@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>Jeff Lee(Li Zheng)</title>
-  <meta name="author" content="Jeff" />
+  <meta name="author" content="Jeff Lee|Li Zheng"/>
   <meta name="viewport" content="width=device-width; initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="/media/css/home.css">
   <style type="text/css">
@@ -49,7 +49,7 @@
   <li><a href="/">Home</a></li>
   <li><a href="/cn/">Chinese</a></li>
   <li><a href="/en/">English</a></li>
-<li><a href="/slides/">Slides</a></li>
+<li><a href="/topics/">Topics</a></li>
 </ul>
 {% if page.avatar %} <p><!--<img src="..." title="Jeff Lee" align="right"/>--></p> {% endif %}
 {{ content }}
