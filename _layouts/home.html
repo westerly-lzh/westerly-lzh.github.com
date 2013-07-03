@@ -7,6 +7,7 @@
   <meta name="author" content="Jeff" />
   <meta name="viewport" content="width=device-width; initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="/media/css/home.css">
+  <script type="text/javascript" src="media/js/photo.js"></script>
   <style type="text/css">
   html, body {
     background-color: #F8F8F8;
@@ -51,7 +52,48 @@
   <li><a href="/en/">English</a></li>
 <li><a href="/topics/">Topics</a></li>
 </ul>
-{% if page.avatar %} <p><!--<img src="..." title="Jeff Lee" align="right"/>--></p> {% endif %}
+{% if page.avatar %} <p>
+<div title="Jeff Lee" align="right">
+<canvas id="myCanvas" width="318" height="318" >
+</div>
+
+	<script type="text/javascript">
+	function getStart(){
+		var p = new Array();
+		for(var i = 0;i<width;i++){
+			p[i] = new Array();
+			for(var j = 0;j<height;j++){
+				p[i][j] = parseInt(photo.charAt(i*width+j));
+			}
+		}
+		var canvas=document.getElementById("myCanvas");
+		if (!canvas) {
+	        alert('Error: Cannot find the canvas element!');
+	        return;
+	      }
+
+	      if (!canvas.getContext) {
+	        alert('Error: Canvas context does not exist!');
+	        return;
+	      }
+		var cxt=canvas.getContext("2d");
+		var imgd = cxt.createImageData(width,height);
+		var pix = imgd.data;
+		var length = pix.length;
+
+		for(var i=0;i<length;i += 4){
+			var k = Math.round(i/4);
+			var t = p[Math.floor(k/width)][k%height];
+			pix[i] = t==0?255:0;
+			pix[i+1] = t==0?255:0;
+			pix[i+2] = t==0?255:0;
+			pix[i+3] = 200;
+		}
+		cxt.putImageData(imgd,0,0);
+	}
+	getStart();
+	</script>
+<!--<img src="..." title="Jeff Lee" align="right"/>--></p> {% endif %}
 {{ content }}
 <footer>
   <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub | Copyright 2011 - {{site.time | date:"%Y"}} by <a href="http://jeff-lee.name">Jeff Lee</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
