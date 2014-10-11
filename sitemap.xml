@@ -8,242 +8,352 @@
 
 <url>
   <loc>http://jeff-lee.name/</loc>
-  <lastmod>2013-07-09T04:33:36+00:00</lastmod>
+  <lastmod>2014-10-11T05:14:26+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/en/</loc>
   <lastmod>2013-04-13T10:55:39+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/about/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/publication/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/categories/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/tags/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/links/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/feed/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/09/Block-Fonts-GoogleApis/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/07/FreeBSD-Jail-Try/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/07/FreeBSD-Jail/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/07/FreeBSD-make-Kernel/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/07/FreeBSD-SSHD/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/07/FreeBSD-su/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/05/Using-Data-Table/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/05/Exponential-Smoothing/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/05/Regress-Analysis/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/04/Linux-Miscellaneous-4/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/04/Null-Parameter-Test/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/03/Clustering-Review/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/02/Statistic-Test/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/01/Multinomial-Distribution/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2014/01/Summary-Of-2013/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/12/R-Library-reshape2/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/12/R-Library-reshape1/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/11/The-Twelfth-Week-Of-This-Term/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/11/Linux-Miscellaneous-3/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/11/Reviewing-And-Scheduling-Of-Horrible-Tasks/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/11/A-Plan-Is-Still-A-Plan/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/10/Linux-Miscellaneous-2/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/10/PostgreSQL-Miscellaneous/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/10/OSX-Miscellaneous/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/10/Linux-Miscellaneous/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/09/School-Begin/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/08/GDB-Tips/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/07/Back-From-HuBei-Province/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/07/From-WIndows-To-Others/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://jeff-lee.name/cn/2013/07/Eclipse-Kepler-With-Stardust/</loc>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
+  <changefreq>daily</changefreq>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/2013/06/Multivariate-Statistical-Analysis/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/2013/06/Analysis-Of-Variance/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/2013/06/Regression-Analysis-1/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/2013/06/Others-Graduating-Time/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/2013/05/Core-Location-Framework-Source/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/2013/05/Life-Is-A-Little-Busy/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/2013/05/R-Source-Reading-Story-02/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/2013/04/R-Source-Reading-Story-01/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/2013/04/Saw-CRISP-again/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/cn/2013/04/Using-github-finally/</loc>
-  <lastmod>2013-07-06T09:23:20+00:00</lastmod>
+  <lastmod>2014-10-11T05:18:05+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/en/about/</loc>
   <lastmod>2013-04-13T10:55:39+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/en/publication/</loc>
   <lastmod>2013-04-13T10:55:39+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/en/guestbook/</loc>
   <lastmod>2013-04-13T10:55:39+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/en/vitae/</loc>
   <lastmod>2013-04-13T10:55:39+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/en/categories/</loc>
   <lastmod>2013-04-13T10:55:39+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/en/tags/</loc>
   <lastmod>2013-04-13T10:55:39+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/en/links/</loc>
   <lastmod>2013-04-13T10:55:39+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/en/feed/</loc>
   <lastmod>2013-04-13T10:55:39+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/en/2013/04/Testing-for-the-first-publish/</loc>
   <lastmod>2013-04-13T10:55:39+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/about/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/publication/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/guestbook/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/vitae/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/categories/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/tags/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/links/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/feed/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/2013/04/Testing-for-the-first-publish/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/2013/04/topics-and-slides-en/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://jeff-lee.name/topics/2013/04/topics-and-slides-cn/</loc>
   <lastmod>2013-05-29T14:39:01+00:00</lastmod>
   <changefreq>daily</changefreq>
-  <priority>0.64</priority>
 </url>
 </urlset>
